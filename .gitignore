@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+*.xls
+*.xlsx
+*.sqlite
+*.db
+
+# Logs
+*.log
+
+# Miscellaneous
+desktop.ini
+thumbs.db
+githubinit.md
+animacje/
+video_*
+video_*/
+YT9999_template*
+YT9999_template*/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# React
+node_modules/
+build/
+.DS_Store
+yarn-error.log
+
+# TensorFlow
+*.pb
+*.pbtxt
+*.ckpt
+*.meta
+*.index
